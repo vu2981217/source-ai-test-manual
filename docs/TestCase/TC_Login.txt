@@ -1,0 +1,3 @@
+navigate to url
+enter username and pw
+click login btn
