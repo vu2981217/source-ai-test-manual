@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Navigate login page
 Input username, password 
 Click save button
 Check the display on screen
+=======
+navigate to url
+enter username and pw
+click login btn
+>>>>>>> fc04e96b9e966373c19890c0a0044580c20f765b
