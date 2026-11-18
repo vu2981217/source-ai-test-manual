@@ -1,0 +1,4 @@
+Navigate login page
+Input username, password 
+Click save button
+Check the display on screen
