@@ -1,4 +1,0 @@
-Navigate to login page URL: https://crm.anhtester.com/admin/authentication
-Input username (email) and password
-Click Login button
-Check the display on screen
